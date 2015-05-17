@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:-1, CANALES IPTV
+https://raw.githubusercontent.com/JoracaTV/iptv/master/iptv.m3u
+#EXTINF:-1, CANALES IPTV 2
+https://github.com/JoracaTV/iptv/blob/master/iptv.m3u
